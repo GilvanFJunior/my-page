@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../navbar/Navbar';
 import CV from './CV.pdf';
-import img from '../../assets/perfilimg.png';
+import img from '../../assets/img2.png';
 
 export default function Hero() {
   return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import img_experience from '../../assets/img_experience.png';
+import img_experience from '../../assets/experience-theme.jpg';
 
 export default function Experience() {
   return (
@@ -30,7 +30,7 @@ export default function Experience() {
           className="lg:flex-grow md:w-1/2 lg:pl-8 md:pl-8 flex flex-col md:items-start md:text-left items-center text-center "
         >
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-orange-500 ">
-            Experience
+            EXPERIENCE
           </h1>
           <h2 className="title-font font-bold text-white sm:text-2xl ">
             2015-2024: Marinha do Brasil

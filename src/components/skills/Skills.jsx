@@ -2,7 +2,6 @@ import React from 'react';
 import javascript from '../../assets/javascript.png';
 import html from '../../assets/html.png';
 import webdesign from '../../assets/web-design.png';
-
 import react from '../../assets/react.png';
 import java from '../../assets/java-icon.png';
 import figma from '../../assets/figma-icon.png';
@@ -27,7 +26,7 @@ export default function Skills() {
             data-aos-delay="500"
             className="sm:text-4xl text-2xl font-medium title-font mb-2 text-white "
           >
-            Skills
+            SKILLS
           </h1>
           <p
             data-aos="fade-right"
@@ -47,9 +46,9 @@ export default function Skills() {
           <h1
             data-aos="fade-right"
             data-aos-delay="500"
-            className="sm:text-4xl text-2xl font-medium title-font mb-2 text-white mt-3"
+            className="sm:text-4xl text-2xl font-medium title-font mb-2 text-white mt-6"
           >
-            Soft Skills
+            SOFT SKILLS
           </h1>
           <p
             data-aos="fade-right"
