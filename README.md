@@ -1,8 +1,12 @@
-# React + Vite
+<h1 align="center"> MEU NOVO PORTFÓLIO WEB </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center">Seja bem vindo, espero que goste do meu projeo. 👋😀 </h1>
 
-Currently, two official plugins are available:
+![Screenshot_6](https://github.com/user-attachments/assets/bf7277f6-bab9-4ba3-bf59-3f889539ea93)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ <h1 align="center"> TECNOLOGIAS 🧑‍💻 </h1>
+
+* React
+* TailwindCss
+* Vite JS
+* React Router Dom
